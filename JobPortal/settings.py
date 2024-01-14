@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'JobPortal.wsgi.application'
 
 #Pg database
 DATABASES = {
-    'default': dj_database_url.config(default='postgres://default:6j7fENOJKWLI@ep-snowy-wave-10814893.ap-southeast-1.postgres.vercel-storage.com:5432/verceldb')
+    'default': dj_database_url.config(default='postgres://default:fX6paJFUkR8y@ep-red-snow-25122044.ap-southeast-1.postgres.vercel-storage.com:5432/verceldb')
 }
 
 # Password validation
